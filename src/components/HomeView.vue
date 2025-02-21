@@ -7,8 +7,8 @@
 <script>
 export default {
     name: 'HomeView',
-    setup() {
-
+    mounted() {
+        document.title = "yalarba"
     }
 }
 </script>
