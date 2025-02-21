@@ -9,10 +9,13 @@
         "src/*"
       ],
       "comp/*": [
-        "src/components"
+        "src/components/*"
       ],
       "views/*": [
-        "src/views"
+        "src/views/*"
+      ],
+      "langs/*": [
+        "src/locales/i18n_json_files/*"
       ]
     },
     "lib": [
